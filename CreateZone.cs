@@ -1,15 +1,5 @@
-// Copyright 2014 ESRI
-// 
-// All rights reserved under the copyright laws of the United States
-// and applicable international laws, treaties, and conventions.
-// 
-// You may freely redistribute and use this sample code, with or
-// without modification, provided you include the original copyright
-// notice and use restrictions.
-// 
-// See the use restrictions at <your ArcGIS install location>/DeveloperKit10.2/userestrictions.txt.
-//
-//THIS IS A TOOL THAT CREATES A BUFFERS FROM A GRAPHIC LINE WITH DIFFERENT LENGTH RIGHT/LEFT AND THEN MERGES THEM INTO A SINGLE POLYGON
+//THIS IS A TOOL THAT CREATES A BUFFERS FROM A GRAPHIC LINE WITH DIFFERENT
+// LENGTH RIGHT/LEFT AND THEN MERGES THEM INTO A SINGLE POLYGON
 
 using System;
 using System.Collections.Generic;
